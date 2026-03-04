@@ -5,7 +5,7 @@
 * Having a basic knowledge on RESTAssured Library, if not
 click [here](http://rest-assured.io/)
 
-#### Getting Started
+#### Getting Started with chages
 First, let us quickly understand the following things
 1. **What is DSL?**
 2. **Keywords present in RESTAssured DSL**
